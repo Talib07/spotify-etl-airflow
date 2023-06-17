@@ -138,6 +138,12 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Ignore the env file
+/.env/
+
+# Ignore the credentials file
+/keys.json
+
 # mypy
 .mypy_cache/
 .dmypy.json
